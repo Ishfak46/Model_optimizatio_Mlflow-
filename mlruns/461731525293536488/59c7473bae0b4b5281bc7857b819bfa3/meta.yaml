@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLflow_model_opt/Model_optimizatio_Mlflow-/mlruns/461731525293536488/59c7473bae0b4b5281bc7857b819bfa3/artifacts
+end_time: 1727950946289
+entry_point_name: ''
+experiment_id: '461731525293536488'
+lifecycle_stage: active
+run_id: 59c7473bae0b4b5281bc7857b819bfa3
+run_name: XGBClassifier
+run_uuid: 59c7473bae0b4b5281bc7857b819bfa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727950940988
+status: 3
+tags: []
+user_id: Personal

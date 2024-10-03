@@ -1,6 +1,0 @@
-artifact_location: file:///d:/MLflow_model_opt/Model_optimizatio_Mlflow-/mlruns/787941821016998978
-creation_time: 1727948415846
-experiment_id: '787941821016998978'
-last_update_time: 1727948415846
-lifecycle_stage: active
-name: Anomaly Detection

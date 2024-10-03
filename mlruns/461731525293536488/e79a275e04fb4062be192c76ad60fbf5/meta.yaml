@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLflow_model_opt/Model_optimizatio_Mlflow-/mlruns/461731525293536488/e79a275e04fb4062be192c76ad60fbf5/artifacts
+end_time: 1727950940918
+entry_point_name: ''
+experiment_id: '461731525293536488'
+lifecycle_stage: active
+run_id: e79a275e04fb4062be192c76ad60fbf5
+run_name: Random Forest
+run_uuid: e79a275e04fb4062be192c76ad60fbf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727950936240
+status: 3
+tags: []
+user_id: Personal

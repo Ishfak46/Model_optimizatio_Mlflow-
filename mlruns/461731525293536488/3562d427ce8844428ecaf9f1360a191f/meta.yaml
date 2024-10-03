@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLflow_model_opt/Model_optimizatio_Mlflow-/mlruns/461731525293536488/3562d427ce8844428ecaf9f1360a191f/artifacts
+end_time: 1727950936196
+entry_point_name: ''
+experiment_id: '461731525293536488'
+lifecycle_stage: active
+run_id: 3562d427ce8844428ecaf9f1360a191f
+run_name: Logistic Regression
+run_uuid: 3562d427ce8844428ecaf9f1360a191f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727950930460
+status: 3
+tags: []
+user_id: Personal

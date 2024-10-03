@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727952371610
+current_stage: None
+description: ''
+last_updated_timestamp: 1727952371610
+name: anomaly-detection-prod
+run_id: 1461f20c186f4d2aa1cf15bf5f6798e7
+run_link: ''
+source: models:/XGB-Smote/1
+status: READY
+status_message: null
+storage_location: file:///d:/MLflow_model_opt/Model_optimizatio_Mlflow-/mlruns/461731525293536488/1461f20c186f4d2aa1cf15bf5f6798e7/artifacts/model
+user_id: null
+version: 1
